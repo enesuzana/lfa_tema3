@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555688407 source:c:\users\suzi\desktop\oop\gic\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<iterator>
+	<cstring>
+
